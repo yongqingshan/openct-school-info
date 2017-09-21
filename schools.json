@@ -1100,5 +1100,13 @@
     "name":"河南理工大学",
     "cmsSys":"urp",
     "cmsURL":"http://218.196.240.97:80"
+  },
+  {
+	"name":"华南师范大学",
+	"cmsSys":"zfsoft",
+	"cmsURL":"https://jwc.scnu.edu.cn/default2.aspx",
+	"libSys":"njhuiwen",
+	"cmsURL":"http://202.116.41.246:8080/opac/search_adv.php#/index"
   }
+	
 ]
