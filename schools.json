@@ -1108,5 +1108,9 @@
 	"libSys":"njhuiwen",
 	"cmsURL":"http://202.116.41.246:8080/opac/search_adv.php#/index"
   }
+	{ "name":"四川文化艺术学院",
+	"cmsSys":"custom",
+	"cmsURL":" http://jwc.cymy.edu.cn/jiaoshi/bangong/main/index1"
+} 
 	
 ]
